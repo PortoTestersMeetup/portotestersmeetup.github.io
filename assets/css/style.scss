@@ -2,8 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+
 h1.project-name{
-  display: none;
+  visibility: hidden;
 }
 h1.project-name:after{
  content: 'Porto Testers Meetup';
