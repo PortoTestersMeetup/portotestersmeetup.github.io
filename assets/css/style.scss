@@ -2,8 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
-
+h1.project-name{
+  display: none;
+}
 h1.project-name:after{
- display: none;
  content: 'Porto Testers Meetup';
 }
