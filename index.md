@@ -3,7 +3,7 @@ A group of friends that decided to contribute in the community by starting to or
 
 The current organization is made by:
 
-# Diogo Junior
+# Diogo Júnior
 <img src="images/diogo_junior.jpg" width="48" align="left"/>
 <br>
 
