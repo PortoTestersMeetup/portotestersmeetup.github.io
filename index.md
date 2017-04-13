@@ -14,3 +14,5 @@ The current organization is made by:
 
 # Nuno Matos
 <img src="images/nuno_matos.png" width="48" align="right"/>
+
+<br>
