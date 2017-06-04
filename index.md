@@ -1,5 +1,5 @@
 
-A group of friends that decided to contribute in the community by starting to organize events where we could gather everyone interested in all the topics regarding testers. Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_blank">here</a>.
+A group of friends that decided to contribute in the community by starting to organize events where we could gather everyone interested in all the topics regarding testing. Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_blank">here</a>.
 
 The current organization is made by:
 
