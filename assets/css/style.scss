@@ -6,15 +6,15 @@
 h1.project-name{
   visibility: hidden;
 }
+
 h1.project-name:after{
  content: 'Porto Testers Meetup';
  visibility: visible;
  display: block;
-
 }
 
 .page-header {
-  background-image:url("../../images/full_image.jpg");
+  background-image:url("../../images/cover/full_image.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-color: lightblue;

@@ -1,22 +1,41 @@
 
-A group of friends that decided to contribute in the community by starting to organize events where we could gather everyone interested in all the topics regarding testing. Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_blank">here</a>.
+A group of friends that decided to contribute to the community by starting to organize events where we could gather everyone interested in all the topics regarding testing. 
+Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_blank">here</a>.
 
-The current organization is made by:
+# Team
 
+<table width="500px" height="100%" border="1" style="border-color: transparent">
+
+<tr>
+
+<td>
+<img src="images/organization/diogo_junior.jpg" width="48" align="left"/>
+</td>
+<td>
 # Diogo Júnior
-<img src="images/diogo_junior.jpg" width="48" align="left"/>
-<br>
+</td>
 
+<td>
+<img src="images/organization/fabio_barbosa.jpg" width="48" align="left"/>
+</td>
+<td>
 # Fábio Barbosa
-<img src="images/fabio_barbosa.jpg" width="48" align="left"/>
-<br>
+</td>
 
+<td>
+<img src="images/organization/filipe_carvalho.jpg" width="48" align="left"/>
+</td>
+<td>
 # Filipe Carvalho
-<img src="images/filipe_carvalho.jpg" width="48" align="left"/>
-<br>
+</td>
 
+<td>
+<img src="images/organization/nuno_matos.jpg" width="48" align="left"/>
+</td>
+<td>
 # Nuno Matos
-<img src="images/nuno_matos.png" width="48" align="left"/>
+</td>
 
-<br>
-<br>
+</tr>
+
+</table>
