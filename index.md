@@ -4,7 +4,7 @@ Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_bl
 
 # Team
 
-<table width="500px" height="100%" border="1" style="border-color: transparent">
+<table width="500px" height="100%" style="border: 1px solid transparent">
 
 <tr>
 
