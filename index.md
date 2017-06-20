@@ -3,12 +3,12 @@ Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_bl
 
 # Team
 
-<table width="700px" height="100%" style="border: 1px solid transparent">
+<table width="100%" height="100%" style="border: 1px solid transparent">
 
   <tr>
     <td>
       <div class="speakercontainer">
-        <img class="speakerimage" src="images/organization/diogo_junior.jpg" style="min-width:50px;" align="left"/>
+        <img class="speakerimage" src="images/organization/diogo_junior.jpg" style="min-width:50px; width:" align="left"/>
         <div class="speakermiddle">
           <div class="speakertext" onclick="on('dj')">Diogo Júnior</div>
         </div>
