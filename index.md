@@ -8,7 +8,8 @@ Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_bl
   <tr>
     <td class="column">
       <div class="speakercontainer">
-        <img class="speakerimage" src="images/organization/diogo_junior.jpg" style="min-width:50px;" align="left"/>
+        <img class="speakerimage" src="images/organization/diogo_junior.jpg" style="min-width:50px;"
+        />
         <div class="speakermiddle">
           <div class="speakertext" onclick="on('dj')">Diogo Júnior</div>
         </div>
@@ -17,7 +18,7 @@ Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_bl
 
     <td class="column">
       <div class="speakercontainer">
-        <img class="speakerimage" src="images/organization/fabio_barbosa.jpg" style="min-width:50px;" align="left"/>
+        <img class="speakerimage" src="images/organization/fabio_barbosa.jpg" style="min-width:50px;"/>
         <div class="speakermiddle">
           <div class="speakertext" onclick="on('fb')">Fábio Barbosa</div>
         </div>
@@ -26,7 +27,7 @@ Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_bl
     
     <td class="column">
       <div class="speakercontainer">
-        <img class="speakerimage" src="images/organization/filipe_carvalho.jpg" style="min-width:50px;" align="left"/>
+        <img class="speakerimage" src="images/organization/filipe_carvalho.jpg" style="min-width:50px;"/>
         <div class="speakermiddle">
           <div class="speakertext" onclick="on('fc')">Filipe Carvalho</div>
         </div>
@@ -35,7 +36,7 @@ Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_bl
     
     <td class="column">
       <div class="speakercontainer">
-        <img class="speakerimage" src="images/organization/nuno_matos.png" style="min-width:50px;" align="left"/>
+        <img class="speakerimage" src="images/organization/nuno_matos.png" style="min-width:50px;"/>
         <div class="speakermiddle">
           <div class="speakertext" onclick="on('nm')">Nuno Matos</div>
         </div>
