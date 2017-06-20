@@ -26,7 +26,7 @@ Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_bl
     
     <td>
       <div class="speakercontainer">
-        <img src="images/organization/filipe_carvalho.jpg" style="min-width:50px;" align="left"/>
+        <img class="speakerimage" src="images/organization/filipe_carvalho.jpg" style="min-width:50px;" align="left"/>
         <div class="speakermiddle">
           <div class="speakertext" onclick="on('fc')">Filipe Carvalho</div>
         </div>
@@ -35,7 +35,7 @@ Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_bl
     
     <td>
       <div class="speakercontainer">
-        <img src="images/organization/nuno_matos.png" style="min-width:50px;" align="left"/>
+        <img class="speakerimage" src="images/organization/nuno_matos.png" style="min-width:50px;" align="left"/>
         <div class="speakermiddle">
           <div class="speakertext" onclick="on('nm')">Nuno Matos</div>
         </div>
