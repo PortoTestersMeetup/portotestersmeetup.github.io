@@ -46,7 +46,7 @@ Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_bl
 </table>
 
 <div id="dj" class="overlay" onclick="off('dj')">
-  <div id="text">Diogo Júnior, Engenheiro da FEUP, começou a trabalhar no Instituto de Investigação Fraunhofer Portugal como investigador onde coordenou, geriu e desenvolveu projectos nacionais e europeus para além de orientar também alguns alunos durante a sua tese de mestrado. Depois de 5 anos no mundo da investigação, mudou para o mundo empresarial e participou na equipa mobile de e-commerce na Porto Tech Center durante um ano, onde ajudou a equipa a melhorar os padrões de desenvolvimento, plataformas e serviços da app Android Kaymu, para além de introduzir testes automáticos(unitários e funcionais) no desenvolvimento da app. Depois de deixar a Porto Tech Center à procura de um cargo com mais responsabilidade e um novo desafio, ingressou na 7Graus onde é atualmente Lead Android - Full Stack Dev - ASO Expert e responsável pelo portefólio das apps da empresa contando com apps com mais de meio milhão de downloads.</div>
+  <div id="text">Diogo Júnior, Engenheiro da FEUP, começou a trabalhar no Instituto de Investigação Fraunhofer Portugal. Depois de 5 anos no mundo da investigação, mudou para o mundo empresarial e participou na equipa mobile de e-commerce na Porto Tech Center. Neste momento encontra-se na 7Graus onde é atualmente Lead Android - Full Stack Dev - ASO Expert.</div>
 </div>
 
 <div id="fb" class="overlay" onclick="off('fb')">
@@ -55,7 +55,7 @@ Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_bl
 
 <div id="fc" class="overlay" onclick="off('fc')">
 <div id="text">
-Após ter concluído o Mestrado Integrado em Engenharia Informática na FEUP, começou a sua carreira como developer, tendo algum tempo depois decidido explorar e enveredar pelas áreas de Mobile Test & Delivery Automation tendo naturalmente evoluído para Test Lead durante o seu percurso. Continua muito interessado em continuar a evoluir, sendo presença constante em eventos da área, nomeadamente relacionados com Testing, Delivery ou Infrastructure Automation. É neste momento Senior Test Engineer do cluster de Mobile na Farfetch.
+Após ter concluído o Mestrado Integrado em Engenharia Informática na FEUP, começou a sua carreira como developer, tendo algum tempo depois decidido explorar e enveredar pelas áreas de Mobile Test & Delivery Automation tendo naturalmente evoluído para Test Lead durante o seu percurso. Continua muito interessado em continuar a evoluir, sendo presença constante em eventos da área, nomeadamente relacionados com Testing, Delivery ou Infrastructure Automation. É neste momento Senior Test Automation Engineer do cluster de Mobile na Farfetch.
 </div>
 </div>
 
