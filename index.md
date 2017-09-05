@@ -66,7 +66,7 @@ Licenciado em Informática de Gestão e 19 anos de experiência profissional em 
 </div>
 </div>
 # Next Event
-<div style="width:195px; text-align:center;" ><iframe  src="https://www.eventbrite.pt/countdown-widget?eid=35369959501" frameborder="0" height="461" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:195px; text-align:center;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.pt/">Desenvolvido pela Eventbrite</a></div></div>
+<div style="width:195px; text-align:center;" ><iframe  src="https://www.eventbrite.pt/calendar-widget?eid=37305787615" frameborder="0" height="487" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:195px; text-align:center;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.pt/">Desenvolvido pela Eventbrite</a></div></div>
 
 <script>
 function on(panel) {
