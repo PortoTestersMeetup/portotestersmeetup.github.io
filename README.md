@@ -16,6 +16,6 @@ If you want to contribute to a project and make it better, your help is very wel
 4. Select the theme (Jekyll theme is the one used by the website)
 5. Select where your site is published - should be under something like https://github.com/yourgithubusername/PTM_PAGE
 
-# First time open-source? Here is some guidance
+# First time open-source?
 
-Guidance: https://opensource.guide/how-to-contribute/
+Here is some guidance: https://opensource.guide/how-to-contribute/
