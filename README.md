@@ -7,6 +7,7 @@ If you want to contribute to a project and make it better, your help is very wel
 2. Check the open issues that are available to the community and let us know you will tackle it
 3. When you finish, open up the pull request and we will review it as soon as possible
 4. If everything is fine, it will be merged and you will see it on the PTM website soon
+5. Later, your name will be featured in the Contributors section
 
 # How to use your github repository to test?
 
@@ -19,3 +20,9 @@ If you want to contribute to a project and make it better, your help is very wel
 # First time open-source?
 
 Here is some guidance: https://opensource.guide/how-to-contribute/
+
+# Contributors
+
+- Diogo Junior
+- Fabio Barbosa
+- Filipe Carvalho
