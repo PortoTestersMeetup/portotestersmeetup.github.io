@@ -23,6 +23,6 @@ Here is some guidance: https://opensource.guide/how-to-contribute/
 
 # Contributors
 
-- Diogo Junior
-- Fabio Barbosa
+- Diogo Júnior
+- Fábio Barbosa
 - Filipe Carvalho
