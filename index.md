@@ -1,8 +1,16 @@
 
 # About
 
-A group of friends that decided to contribute to the community by starting to organize events where we could gather everyone interested in all the topics regarding testing. We start with one or two presentations and then discuss these and other themes afterwards along with a coffee break provided by the host company.
-Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_blank">here</a>.
+<p>
+  A group of friends that decided to contribute to the community by starting to organize events where we could gather everyone interested in all the topics regarding testing.
+</p> 
+<p>
+  We start with one or two presentations and then discuss these and other themes afterwards along with a coffee break provided by the host company.
+</p> 
+<p>
+  Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_blank">here</a>.
+</p> 
+
 
 # Team
 
@@ -65,15 +73,26 @@ Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_bl
   <div id="text">Licenciado em Informática de Gestão e 19 anos de experiência profissional em IT onde em 2008 enveredou na área de Testing e sua carreira progrediu naturalmente de junior a QA Team Lead seguido de Test Manager. Actualmente o seu desafio é de implementar test strategy, processos e procedimentos na entrega de produtos web na VentureOak com os padrões de qualidade elevados.</div>
 </div>
 
+
 # Call for Speakers
 
-We are always looking for speakers for these events. If you want to talk and share some of your knowledge, please let us know and fill <a href="/PTM_PAGE/pages/CFS">this small form</a>
+<p>
+  We are always looking for speakers for these events. If you want to talk and share some of your knowledge, please let us know and fill <a href="/PTM_PAGE/pages/CFS">this small form</a>.
+</p>
+
 
 # Want to contribute to the website?
 
-Great! Please follow our instructions <a href="https://github.com/portotestersmeetup/PTM_PAGE" target="_blank">here</a>. If you just want to host an event or share any idea, just talk to anyone in the organization on <a href="https://portotestersmeetup.slack.com" target="_blank"> slack</a> (join us if haven't already <a href="https://slackvite.com/portotestersmeetup" target="_blank"> here</a>) or in our <a href="https://www.facebook.com/groups/PortoTestersMeetup/" target="_blank"> facebook group</a>.
+<p>
+  Great! Please follow our instructions <a href="https://github.com/portotestersmeetup/PTM_PAGE" target="_blank">here</a>. 
+</p>
+<p>
+  If you just want to host an event or share any idea, just talk to anyone in the organization on <a href="https://portotestersmeetup.slack.com" target="_blank"> slack</a> (join us if haven't already <a href="https://slackvite.com/portotestersmeetup" target="_blank"> here</a>) or in our <a href="https://www.facebook.com/groups/PortoTestersMeetup/" target="_blank"> facebook group</a>.
+</p>
+
 
 # Next Event
+
 <div style="width:195px; text-align:center;" ><iframe  src="https://www.eventbrite.pt/calendar-widget?eid=37305787615" frameborder="0" height="487" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:195px; text-align:center;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.pt/">Desenvolvido pela Eventbrite</a></div></div>
 
 <script>
