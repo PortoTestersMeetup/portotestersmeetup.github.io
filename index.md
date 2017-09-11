@@ -68,7 +68,7 @@ We are always looking for speakers for these events. If you want to talk and sha
 
 # Want to contribute to the website?
 
-Great! Please follow our instructions <a href="https://github.com/portotestersmeetup/PTM_PAGE" target="_blank">here</a>. If you just want to host an event or have any idea, just talk to anyone in the organization on <a href="https://portotestersmeetup.slack.com" target="_blank"> slack</a> (join us if haven't already <a href="https://slackvite.com/portotestersmeetup" target="_blank"> here</a>) or in our <a href="https://www.facebook.com/groups/PortoTestersMeetup/" target="_blank"> facebook group</a>.
+Great! Please follow our instructions <a href="https://github.com/portotestersmeetup/PTM_PAGE" target="_blank">here</a>. If you just want to host an event or share any idea, just talk to anyone in the organization on <a href="https://portotestersmeetup.slack.com" target="_blank"> slack</a> (join us if haven't already <a href="https://slackvite.com/portotestersmeetup" target="_blank"> here</a>) or in our <a href="https://www.facebook.com/groups/PortoTestersMeetup/" target="_blank"> facebook group</a>.
 
 # Next Event
 <div style="width:195px; text-align:center;" ><iframe  src="https://www.eventbrite.pt/calendar-widget?eid=37305787615" frameborder="0" height="487" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:195px; text-align:center;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.pt/">Desenvolvido pela Eventbrite</a></div></div>
