@@ -1,4 +1,7 @@
-A group of friends that decided to contribute to the community by starting to organize events where we could gather everyone interested in all the topics regarding testing. 
+
+# About
+
+A group of friends that decided to contribute to the community by starting to organize events where we could gather everyone interested in all the topics regarding testing. We start with one or two presentations and then discuss these and other themes afterwards along with a coffee break provided by the host company.
 Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_blank">here</a>.
 
 # Team
