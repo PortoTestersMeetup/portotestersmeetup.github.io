@@ -5,7 +5,11 @@ If you want to contribute to a project and make it better, your help is very wel
 
 1. Fork the repository https://github.com/portotestersmeetup/PTM_PAGE
 2. Check the open issues that are available to the community and let us know you will tackle it
-> Note: **We will only accept PRs previously discussed in the issues section**
+
+```
+Note: **We will only accept PRs previously discussed in the issues section**
+```
+
 3. Add your name in the Contributors section in this PR - if it is not there already
 4. When you finish, open up the pull request
 5. Wait patiently for a review
