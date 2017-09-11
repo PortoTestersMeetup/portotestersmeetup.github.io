@@ -15,8 +15,8 @@ If you want to contribute to a project and make it better, your help is very wel
 1. Open the url of your fork of the repository (example: https://github.com/yourgithubusername/PTM_PAGE)
 2. Go to the settings of the repository
 3. Open the options and scroll until Github Pages
-4. Select the theme (Jekyll theme is the one used by the website)
-5. Select where your site is published - should be under something like https://github.com/yourgithubusername/PTM_PAGE
+4. Select the theme (Cayman theme is the one used by the website)
+5. Select where your site is published - should be under something like https://yourgithubusername.github.io/PTM_PAGE/
 
 # First time open-source?
 
