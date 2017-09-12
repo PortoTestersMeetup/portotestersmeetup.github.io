@@ -58,19 +58,19 @@
 </table>
 
 <div id="dj" class="overlay" onclick="off('dj')">
-  <div id="text">Diogo Júnior, Engenheiro da FEUP, começou a trabalhar no Instituto de Investigação Fraunhofer Portugal. Depois de 5 anos no mundo da investigação, mudou para o mundo empresarial e participou na equipa mobile de e-commerce na Porto Tech Center. Neste momento encontra-se na 7Graus onde é atualmente Lead Android - Full Stack Dev - ASO Expert.</div>
+  <div id="text">Diogo Júnior, engineer from FEUP, started working at the Fraunhofer Research Institute in Portugal. After 5 years in research area moved to the "business" world and started working in the mobile e-commerce team at Porto Tech Center. At the moment is working at 7Graus where is currently Lead Android - Full Stack Dev - ASO Expert.</div>
 </div>
 
 <div id="fb" class="overlay" onclick="off('fb')">
-  <div id="text">Licenciado em Engenharia de Informática no Instituto Superior de Engenharia do Porto. Começou como web tester mas já trabalha há algum tempo como Test Automation Engineer na área de Mobile. Sempre com vontade de aprender mais e a melhorar a comunidade. Participa em vários eventos, seja para simplesmente ir aprender como para ajudar na organização ou dar uma palestra. Actualmente a trabalhar na Farfetch como Mobile Test Automation Engineer.</div>
+  <div id="text">Working as Mobile Test Automation Engineer, always looking forward to improve myself and learn new stuff. I believe automation is a must nowadays and I really enjoy developing tests for Android using Espresso, Ui Automator and other tools that facilitate the development cycle and guarantee the quality of what we are delivering.</div>
 </div>
 
 <div id="fc" class="overlay" onclick="off('fc')">
-  <div id="text">Após ter concluído o Mestrado Integrado em Engenharia Informática na FEUP, começou a sua carreira como developer, tendo algum tempo depois decidido explorar e enveredar pelas áreas de Mobile Test & Delivery Automation tendo naturalmente evoluído para Test Lead durante o seu percurso. Continua muito interessado em continuar a evoluir, sendo presença constante em eventos da área, nomeadamente relacionados com Testing, Delivery ou Infrastructure Automation. É neste momento Senior Test Automation Engineer do cluster de Mobile na Farfetch.</div>
+  <div id="text">After finishing this Master's degree at FEUP, started his career as a developer. Some time after, decided to pursue and explore the areas of Mobile Test & Delivery Automation, naturally evolving to Test Lead during his path. Continues very interested in learning, being present regularly in events of the area, mainly in the ones related to Testing, Delivery or Infrastructure Automation. Currently he is a Senior Test Engineer of the Mobile cluster at Farfetch.</div>
 </div>
 
 <div id="nm" class="overlay" onclick="off('nm')">
-  <div id="text">Licenciado em Informática de Gestão e 19 anos de experiência profissional em IT onde em 2008 enveredou na área de Testing e sua carreira progrediu naturalmente de junior a QA Team Lead seguido de Test Manager. Actualmente o seu desafio é de implementar test strategy, processos e procedimentos na entrega de produtos web na VentureOak com os padrões de qualidade elevados.</div>
+  <div id="text">Academically he has a degree in Computer Management and 19 years of professional experience in IT where in 2008 he started into Testing area and his career progressed naturally from junior to QA Team Lead followed by Test Manager. At the moment he’s challenged to implement test strategy, processes and procedures in web products delivery at VentureOak with the high quality standards.</div>
 </div>
 
 
