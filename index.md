@@ -1,5 +1,16 @@
-A group of friends that decided to contribute to the community by starting to organize events where we could gather everyone interested in all the topics regarding testing. 
-Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_blank">here</a>.
+
+# About
+
+<p>
+  A group of friends that decided to contribute to the community by starting to organize events where we could gather everyone interested in all the topics regarding testing.
+</p> 
+<p>
+  At each event we start with one or two presentations and then discuss these and other themes along with a coffee break provided by the host company.
+</p> 
+<p>
+  Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_blank">here</a>.
+</p> 
+
 
 # Team
 
@@ -43,6 +54,7 @@ Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_bl
       </div>
     </td>
   </tr>
+  
 </table>
 
 <div id="dj" class="overlay" onclick="off('dj')">
@@ -54,18 +66,33 @@ Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_bl
 </div>
 
 <div id="fc" class="overlay" onclick="off('fc')">
-<div id="text">
-Após ter concluído o Mestrado Integrado em Engenharia Informática na FEUP, começou a sua carreira como developer, tendo algum tempo depois decidido explorar e enveredar pelas áreas de Mobile Test & Delivery Automation tendo naturalmente evoluído para Test Lead durante o seu percurso. Continua muito interessado em continuar a evoluir, sendo presença constante em eventos da área, nomeadamente relacionados com Testing, Delivery ou Infrastructure Automation. É neste momento Senior Test Automation Engineer do cluster de Mobile na Farfetch.
-</div>
+  <div id="text">Após ter concluído o Mestrado Integrado em Engenharia Informática na FEUP, começou a sua carreira como developer, tendo algum tempo depois decidido explorar e enveredar pelas áreas de Mobile Test & Delivery Automation tendo naturalmente evoluído para Test Lead durante o seu percurso. Continua muito interessado em continuar a evoluir, sendo presença constante em eventos da área, nomeadamente relacionados com Testing, Delivery ou Infrastructure Automation. É neste momento Senior Test Automation Engineer do cluster de Mobile na Farfetch.</div>
 </div>
 
 <div id="nm" class="overlay" onclick="off('nm')">
-<div id="text">
-Licenciado em Informática de Gestão e 19 anos de experiência profissional em IT onde em 2008 enveredou na área de Testing e sua carreira progrediu naturalmente de junior a QA Team Lead seguido de Test Manager. Actualmente o seu desafio é de implementar test strategy, processos e procedimentos na entrega de produtos web na VentureOak com os padrões de qualidade elevados.
+  <div id="text">Licenciado em Informática de Gestão e 19 anos de experiência profissional em IT onde em 2008 enveredou na área de Testing e sua carreira progrediu naturalmente de junior a QA Team Lead seguido de Test Manager. Actualmente o seu desafio é de implementar test strategy, processos e procedimentos na entrega de produtos web na VentureOak com os padrões de qualidade elevados.</div>
+</div>
 
-</div>
-</div>
+
+# Call for Speakers
+
+<p>
+  We are always looking for speakers for these events. If you want to talk and share some of your knowledge, please let us know and fill <a href="/PTM_PAGE/pages/CFS">this small form</a>.
+</p>
+
+
+# Want to contribute to the website?
+
+<p>
+  Great! Please follow our instructions <a href="https://github.com/portotestersmeetup/PTM_PAGE" target="_blank">here</a>. 
+</p>
+<p>
+  If you just want to host an event or share any idea, just talk to anyone in the organization on <a href="https://portotestersmeetup.slack.com" target="_blank"> slack</a> (join us if haven't already <a href="https://slackvite.com/portotestersmeetup" target="_blank"> here</a>) or in our <a href="https://www.facebook.com/groups/PortoTestersMeetup/" target="_blank"> facebook group</a>.
+</p>
+
+
 # Next Event
+
 <div style="width:195px; text-align:center;" ><iframe  src="https://www.eventbrite.pt/calendar-widget?eid=37305787615" frameborder="0" height="487" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:195px; text-align:center;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.pt/">Desenvolvido pela Eventbrite</a></div></div>
 
 <script>
