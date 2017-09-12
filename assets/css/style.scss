@@ -20,8 +20,7 @@ h1.project-name:after{
   background-repeat: no-repeat;
   background-position: center center;
   background-color: lightblue;
-  width: 100%; /* Full width (cover the whole page) */
-  height: 100%; /* Full height (cover the whole page) */
+  backfround-size: contain;
 }
 
 /* Style Overlay for Organizers */
