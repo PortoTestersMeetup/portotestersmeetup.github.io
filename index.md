@@ -77,7 +77,7 @@
 <h1> Call for Speakers </h1>
 
 <p>
-  We are always looking for speakers for these events. If you want to talk and share some of your knowledge, please let us know and fill <a href="/pages/CFS" target="_blank">this small form</a>.
+  We are always looking for speakers for these events. If you want to talk and share some of your knowledge, please let us know and fill <a href="../pages/CFS" target="_blank">this small form</a>.
 </p>
 
 
