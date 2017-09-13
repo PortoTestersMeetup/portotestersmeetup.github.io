@@ -1,5 +1,5 @@
 
-# About
+<h1> About</h1>
 
 <p>
   A group of friends that decided to contribute to the community by starting to organize events where we could gather everyone interested in all the topics regarding testing.
