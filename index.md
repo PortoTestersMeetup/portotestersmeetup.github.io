@@ -84,7 +84,7 @@
 <h1> Want to contribute to the website? </h1>
 
 <p>
-  Great! Please follow our instructions <a href="https://github.com/portotestersmeetup/PTM_PAGE" target="_blank">here</a>. 
+  Great! Please follow our instructions <a href="https://github.com/PortoTestersMeetup/portotestersmeetup.github.io" target="_blank">here</a>. 
 </p>
 <p>
   If you just want to host an event or share any idea, just talk to anyone in the organization on <a href="https://portotestersmeetup.slack.com" target="_blank"> slack</a> (join us if haven't already <a href="https://slackvite.com/portotestersmeetup" target="_blank"> here</a>) or in our <a href="https://www.facebook.com/groups/PortoTestersMeetup/" target="_blank"> facebook group</a>.
