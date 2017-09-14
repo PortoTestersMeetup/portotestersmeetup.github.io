@@ -66,7 +66,7 @@
 </div>
 
 <div id="fc" class="overlay" onclick="off('fc')">
-  <div id="text">After finishing this Master's degree at FEUP, started his career as a developer. Some time after, decided to pursue and explore the areas of Mobile Test & Delivery Automation, naturally evolving to Test Lead during his path. Continues very interested in learning, being present regularly in events of the area, mainly in the ones related to Testing, Delivery or Infrastructure Automation. Currently he is a Senior Test Engineer of the Mobile cluster at Farfetch.</div>
+  <div id="text">After finishing this Master's degree at FEUP, started his career as a developer. Some time later, decided to pursue and explore the areas of Mobile Test and Delivery Automation, naturally evolving to Test Lead during his path. Continues very interested in learning, being present regularly in events of the area, mainly in the ones related to Testing, Delivery or Infrastructure Automation. Currently he is a Senior Test Engineer of the Mobile cluster at Farfetch.</div>
 </div>
 
 <div id="nm" class="overlay" onclick="off('nm')">
@@ -74,14 +74,14 @@
 </div>
 
 
-# Call for Speakers
+<h1> Call for Speakers </h1>
 
 <p>
-  We are always looking for speakers for these events. If you want to talk and share some of your knowledge, please let us know and fill <a href="/PTM_PAGE/pages/CFS" target="_blank">this small form</a>.
+  We are always looking for speakers for these events. If you want to talk and share some of your knowledge, please let us know and fill <a href="../pages/CFS" target="_blank">this small form</a>.
 </p>
 
 
-# Want to contribute to the website?
+<h1> Want to contribute to the website? </h1>
 
 <p>
   Great! Please follow our instructions <a href="https://github.com/portotestersmeetup/PTM_PAGE" target="_blank">here</a>. 
@@ -91,7 +91,7 @@
 </p>
 
 
-# Next Event
+<h1> Next Event </h1>
 
 <div style="width:195px; text-align:center;" ><iframe  src="https://www.eventbrite.pt/calendar-widget?eid=37305787615" frameborder="0" height="487" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:195px; text-align:center;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.pt/">Desenvolvido pela Eventbrite</a></div></div>
 
