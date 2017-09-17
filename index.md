@@ -15,13 +15,11 @@
 
 <h2> You're more than your tools </h2>
 
-<iframe src="https://drive.google.com/open?id=0B-5uhWs63vXuVFhFdFMyTGQ2U3M"
-   width="760px" height="360px"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQFTxSFUejbIOCMs7V2_KWlEKLUyrzuk4SpLasdh2PwFGdODSDRwL9MLIv6J9ckCWsbpEH2w0F6vIXy/embed?start=true&loop=true&delayms=15000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <h2> QA Tasks prioritization - when you can't handle everything </h2>
 
-<iframe src="https://drive.google.com/open?id=0B-5uhWs63vXuaXBNbHRiN0E4MFk"
-   width="760px" height="360px"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR6in5LyVQoP-8xonudAHNAolGso_m4nCj_16hsdon1mHwpV_XljA4J-z-2FxfklAM1FARDfBgsdQEy/embed?start=true&loop=true&delayms=15000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <h1> Team </h1>
 
