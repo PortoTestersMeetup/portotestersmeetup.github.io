@@ -1,5 +1,5 @@
 
-<h1> About</h1>
+<h1> About </h1>
 
 <p>
   A group of friends that decided to contribute to the community by starting to organize events where we could gather everyone interested in all the topics regarding testing.
@@ -11,8 +11,19 @@
   Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_blank">here</a>.
 </p> 
 
+<h1> Last event </h1>
 
-# Team
+<h2> You're more than your tools </h2>
+
+<iframe src="https://drive.google.com/open?id=0B-5uhWs63vXuVFhFdFMyTGQ2U3M"
+   width="760px" height="360px"></iframe>
+
+<h2> QA Tasks prioritization - when you can't handle everything </h2>
+
+<iframe src="https://drive.google.com/open?id=0B-5uhWs63vXuaXBNbHRiN0E4MFk"
+   width="760px" height="360px"></iframe>
+
+<h1> Team </h1>
 
 <table width="100%" height="100%" style="border: 1px solid transparent">
 
