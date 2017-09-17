@@ -19,7 +19,7 @@
 
 <h2> QA Tasks prioritization - when you can't handle everything </h2>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR6in5LyVQoP-8xonudAHNAolGso_m4nCj_16hsdon1mHwpV_XljA4J-z-2FxfklAM1FARDfBgsdQEy/embed?start=true&loop=true&delayms=15000" frameborder="0" width="480" height="285" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR6in5LyVQoP-8xonudAHNAolGso_m4nCj_16hsdon1mHwpV_XljA4J-z-2FxfklAM1FARDfBgsdQEy/embed" frameborder="0" width="480" height="285" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <h1> Team </h1>
 
