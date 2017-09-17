@@ -15,7 +15,7 @@
 
 <h2> You're more than your tools </h2>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQFTxSFUejbIOCMs7V2_KWlEKLUyrzuk4SpLasdh2PwFGdODSDRwL9MLIv6J9ckCWsbpEH2w0F6vIXy/embed?start=true" frameborder="0" width="480" height="285" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQFTxSFUejbIOCMs7V2_KWlEKLUyrzuk4SpLasdh2PwFGdODSDRwL9MLIv6J9ckCWsbpEH2w0F6vIXy/embed" frameborder="0" width="480" height="285" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <h2> QA Tasks prioritization - when you can't handle everything </h2>
 
