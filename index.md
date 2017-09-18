@@ -12,7 +12,7 @@
   A group of friends that decided to contribute to the community by starting to organize events where we could gather everyone interested in all the topics regarding testing.
 </p> 
 <p>
-  At each event we start with one or two presentations and then discuss these and other themes along with a coffee break provided by the host company.
+  At each event we start with one or two presentations and then discuss these and other themes along with a coffee break provided by the host company. If you want to receive the event in your company, please fill the <a href="../pages/cfv" target="_blank">call for venues</a>.
 </p> 
 <p>
   Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_blank">here</a>.
@@ -93,7 +93,7 @@
 <h1> Call for Speakers </h1>
 
 <p>
-  We are always looking for speakers for these events. If you want to talk and share some of your knowledge, please let us know and fill <a href="../pages/CFS" target="_blank">this small form</a>.
+  We are always looking for speakers for these events. If you want to talk and share some of your knowledge, please let us know and fill our <a href="../pages/cfs" target="_blank">call for speakers</a>.
 </p>
 
 
