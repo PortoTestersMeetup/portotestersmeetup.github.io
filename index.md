@@ -1,11 +1,4 @@
 
-<head>
-
-<link rel="shortcut icon" href="{{ "images/icon/favicon.ico?" | prepend: site.baseurl }}" type="image/x-icon">
-<link rel="icon" href="{{ "images/icon/favicon.ico?" | prepend: site.baseurl }}" type="image/x-icon">
-
-</head>
-
 <h1> About </h1>
 
 <p>
