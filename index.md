@@ -86,9 +86,14 @@
 <h1> Call for Speakers </h1>
 
 <p>
-  We are always looking for speakers for these events. If you want to talk and share some of your knowledge, please let us know and fill <a href="../pages/CFS" target="_blank">this small form</a>.
+  We are always looking for speakers for these events. If you want to talk and share some of your knowledge, please let us know and fill our <a href="../pages/cfs" target="_blank">call for speakers</a>.
 </p>
 
+<h1> Call for Venues </h1>
+
+<p>
+Do you want to host one of our events? If you want to have the event in your company, please fill the <a href="../pages/cfv" target="_blank">call for venues</a>.
+</p>
 
 <h1> Want to contribute to the website? </h1>
 
