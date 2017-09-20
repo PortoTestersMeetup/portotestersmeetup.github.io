@@ -5,7 +5,7 @@
   A group of friends that decided to contribute to the community by starting to organize events where we could gather everyone interested in all the topics regarding testing.
 </p> 
 <p>
-  At each event we start with one or two presentations and then discuss these and other themes along with a coffee break provided by the host company. If you want to receive the event in your company, please fill the <a href="../pages/cfv" target="_blank">call for venues</a>.
+  At each event we start with one or two presentations and then discuss these and other themes along with a coffee break provided by the host company.
 </p> 
 <p>
   Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_blank">here</a>.
@@ -89,6 +89,11 @@
   We are always looking for speakers for these events. If you want to talk and share some of your knowledge, please let us know and fill our <a href="../pages/cfs" target="_blank">call for speakers</a>.
 </p>
 
+<h1> Call for Venues </h1>
+
+<p>
+Do you want to host one of our events? If you want to have the event in your company, please fill the <a href="../pages/cfv" target="_blank">call for venues</a>.
+</p>
 
 <h1> Want to contribute to the website? </h1>
 
