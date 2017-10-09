@@ -1,7 +1,7 @@
 
 # How to contribute
 
-Please review the following guidelines: https://github.com/PortoTestersMeetup/portotestersmeetup.github.io/blob/master/CONTRIBUTING.md
+Please review the following guidelines: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 # How to use your github repository to test
 
