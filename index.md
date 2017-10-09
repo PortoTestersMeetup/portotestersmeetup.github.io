@@ -1,5 +1,5 @@
 
-<h1> About</h1>
+<h1> About </h1>
 
 <p>
   A group of friends that decided to contribute to the community by starting to organize events where we could gather everyone interested in all the topics regarding testing.
@@ -8,11 +8,20 @@
   At each event we start with one or two presentations and then discuss these and other themes along with a coffee break provided by the host company.
 </p> 
 <p>
-  Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_blank">here</a>.
+  Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_blank">here</a>. And videos <a href="https://www.youtube.com/channel/UCCS3R_xuqluwR0VxFjfBX8A" target="_blank">here</a>.  
 </p> 
 
+<h1> Last event </h1>
 
-# Team
+<h3> You're more than your tools </h3>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQFTxSFUejbIOCMs7V2_KWlEKLUyrzuk4SpLasdh2PwFGdODSDRwL9MLIv6J9ckCWsbpEH2w0F6vIXy/embed" frameborder="0" width="480" height="285" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="max-width: -webkit-fill-available;"></iframe>
+
+<h3> QA Tasks prioritization - when you can't handle everything </h3>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR6in5LyVQoP-8xonudAHNAolGso_m4nCj_16hsdon1mHwpV_XljA4J-z-2FxfklAM1FARDfBgsdQEy/embed" frameborder="0" width="480" height="285" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="max-width: -webkit-fill-available;"></iframe>
+
+<h1> Team </h1>
 
 <table width="100%" height="100%" style="border: 1px solid transparent">
 
@@ -58,40 +67,45 @@
 </table>
 
 <div id="dj" class="overlay" onclick="off('dj')">
-  <div id="text">Diogo Júnior, Engenheiro da FEUP, começou a trabalhar no Instituto de Investigação Fraunhofer Portugal. Depois de 5 anos no mundo da investigação, mudou para o mundo empresarial e participou na equipa mobile de e-commerce na Porto Tech Center. Neste momento encontra-se na 7Graus onde é atualmente Lead Android - Full Stack Dev - ASO Expert.</div>
+  <div id="text">Diogo Júnior, engineer from FEUP, started working at the Fraunhofer Research Institute in Portugal. After 5 years in research area moved to the "business" world and started working in the mobile e-commerce team at Porto Tech Center. At the moment is working at 7Graus where is currently Lead Android - Full Stack Dev - ASO Expert.</div>
 </div>
 
 <div id="fb" class="overlay" onclick="off('fb')">
-  <div id="text">Licenciado em Engenharia de Informática no Instituto Superior de Engenharia do Porto. Começou como web tester mas já trabalha há algum tempo como Test Automation Engineer na área de Mobile. Sempre com vontade de aprender mais e a melhorar a comunidade. Participa em vários eventos, seja para simplesmente ir aprender como para ajudar na organização ou dar uma palestra. Actualmente a trabalhar na Farfetch como Mobile Test Automation Engineer.</div>
+  <div id="text">Working as Mobile Test Automation Engineer, always looking forward to improve myself and learn new stuff. I believe automation is a must nowadays and I really enjoy developing tests for Android using Espresso, Ui Automator and other tools that facilitate the development cycle and guarantee the quality of what we are delivering.</div>
 </div>
 
 <div id="fc" class="overlay" onclick="off('fc')">
-  <div id="text">Após ter concluído o Mestrado Integrado em Engenharia Informática na FEUP, começou a sua carreira como developer, tendo algum tempo depois decidido explorar e enveredar pelas áreas de Mobile Test & Delivery Automation tendo naturalmente evoluído para Test Lead durante o seu percurso. Continua muito interessado em continuar a evoluir, sendo presença constante em eventos da área, nomeadamente relacionados com Testing, Delivery ou Infrastructure Automation. É neste momento Senior Test Automation Engineer do cluster de Mobile na Farfetch.</div>
+  <div id="text">After finishing this Master's degree at FEUP, started his career as a developer. Some time later, decided to pursue and explore the areas of Mobile Test and Delivery Automation, naturally evolving to Test Lead during his path. Continues very interested in learning, being present regularly in events of the area, mainly in the ones related to Testing, Delivery or Infrastructure Automation. Currently he is a Senior Test Engineer of the Mobile cluster at Farfetch.</div>
 </div>
 
 <div id="nm" class="overlay" onclick="off('nm')">
-  <div id="text">Licenciado em Informática de Gestão e 19 anos de experiência profissional em IT onde em 2008 enveredou na área de Testing e sua carreira progrediu naturalmente de junior a QA Team Lead seguido de Test Manager. Actualmente o seu desafio é de implementar test strategy, processos e procedimentos na entrega de produtos web na VentureOak com os padrões de qualidade elevados.</div>
+  <div id="text">Academically he has a degree in Computer Management and 19 years of professional experience in IT where in 2008 he started into Testing area and his career progressed naturally from junior to QA Team Lead followed by Test Manager. At the moment he’s challenged to implement test strategy, processes and procedures in web products delivery at VentureOak with the high quality standards.</div>
 </div>
 
 
-# Call for Speakers
+<h1> Call for Speakers </h1>
 
 <p>
-  We are always looking for speakers for these events. If you want to talk and share some of your knowledge, please let us know and fill <a href="/PTM_PAGE/pages/CFS">this small form</a>.
+  We are always looking for speakers for these events. If you want to talk and share some of your knowledge, please let us know and fill our <a href="../pages/cfs" target="_blank">call for speakers</a>.
 </p>
 
-
-# Want to contribute to the website?
+<h1> Call for Venues </h1>
 
 <p>
-  Great! Please follow our instructions <a href="https://github.com/portotestersmeetup/PTM_PAGE" target="_blank">here</a>. 
+Do you want to host one of our events? If you want to have the event in your company, please fill the <a href="../pages/cfv" target="_blank">call for venues</a>.
+</p>
+
+<h1> Want to contribute to the website? </h1>
+
+<p>
+  Great! Please follow our instructions <a href="https://github.com/PortoTestersMeetup/portotestersmeetup.github.io" target="_blank">here</a>. 
 </p>
 <p>
   If you just want to host an event or share any idea, just talk to anyone in the organization on <a href="https://portotestersmeetup.slack.com" target="_blank"> slack</a> (join us if haven't already <a href="https://slackvite.com/portotestersmeetup" target="_blank"> here</a>) or in our <a href="https://www.facebook.com/groups/PortoTestersMeetup/" target="_blank"> facebook group</a>.
 </p>
 
 
-# Next Event
+<h1> Next Event </h1>
 
 <div style="width:195px; text-align:center;" ><iframe  src="https://www.eventbrite.pt/calendar-widget?eid=37305787615" frameborder="0" height="487" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:195px; text-align:center;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.pt/">Desenvolvido pela Eventbrite</a></div></div>
 
