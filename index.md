@@ -10,6 +10,10 @@
 <p>
   Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_blank">here</a>. And videos <a href="https://www.youtube.com/channel/UCCS3R_xuqluwR0VxFjfBX8A" target="_blank">here</a>.  
 </p> 
+<p>
+  If you just want to share any idea, just talk to anyone in the organization on <a href="https://portotestersmeetup.slack.com" target="_blank"> slack</a> (join us if haven't already <a href="https://slackvite.com/portotestersmeetup" target="_blank"> here</a>) or in our <a href="https://www.facebook.com/groups/PortoTestersMeetup/" target="_blank"> facebook group</a>.
+</p>
+
 
 <h1> Last event </h1>
 
@@ -20,6 +24,7 @@
 <h3> QA Tasks prioritization - when you can't handle everything </h3>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR6in5LyVQoP-8xonudAHNAolGso_m4nCj_16hsdon1mHwpV_XljA4J-z-2FxfklAM1FARDfBgsdQEy/embed" frameborder="0" width="480" height="285" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="max-width: -webkit-fill-available;"></iframe>
+
 
 <h1> Team </h1>
 
@@ -89,6 +94,7 @@
   We are always looking for speakers for these events. If you want to talk and share some of your knowledge, please let us know and fill our <a href="../pages/cfs" target="_blank">call for speakers</a>.
 </p>
 
+
 <h1> Call for Venues </h1>
 
 <p>
@@ -99,9 +105,6 @@ Do you want to host one of our events? If you want to have the event in your com
 
 <p>
   Great! Please follow our instructions <a href="https://github.com/PortoTestersMeetup/portotestersmeetup.github.io" target="_blank">here</a>. 
-</p>
-<p>
-  If you just want to host an event or share any idea, just talk to anyone in the organization on <a href="https://portotestersmeetup.slack.com" target="_blank"> slack</a> (join us if haven't already <a href="https://slackvite.com/portotestersmeetup" target="_blank"> here</a>) or in our <a href="https://www.facebook.com/groups/PortoTestersMeetup/" target="_blank"> facebook group</a>.
 </p>
 
 
