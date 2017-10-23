@@ -1,5 +1,5 @@
 <head>
-  <link rel="shortcut icon" type="image/png" href="https://d30y9cdsu7xlg0.cloudfront.net/png/83825-200.png"/>
+  <link rel="shortcut icon" type="image/png" href="https://github.com/PortoTestersMeetup/portotestersmeetup.github.io/blob/master/images/icon/favicon.ico"/>
  </head>
 <h1> About </h1>
 
