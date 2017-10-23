@@ -1,4 +1,6 @@
-
+<head>
+  <link rel="shortcut icon" type="image/png" href="https://d30y9cdsu7xlg0.cloudfront.net/png/83825-200.png"/>
+ </head>
 <h1> About </h1>
 
 <p>
