@@ -1,4 +1,6 @@
-
+<head>
+  <link rel="shortcut icon" type="image/png" href="/images/icon/favicon.ico"/>
+ </head>
 <h1> About </h1>
 
 <p>
