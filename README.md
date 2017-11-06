@@ -16,3 +16,4 @@ Please review the following guidelines: [CONTRIBUTING.md](CONTRIBUTING.md)
 - Diogo Júnior
 - Fábio Barbosa
 - Filipe Carvalho
+- Augustas Verbickas
