@@ -11,7 +11,7 @@ We will only accept PRs previously discussed in the issues section.
 ```
 
 3. Add your name in the Contributors section in this PR - including the link to your profile - if it is not there already
-4. When you finish, open up the pull request
+4. When you finish, open up the pull request adding a screenshot when relevant changes are done in the UI (if applicable)
 5. Wait patiently for a review
 6. If everything is fine, it will be merged and you will see it on the PTM website soon
 
