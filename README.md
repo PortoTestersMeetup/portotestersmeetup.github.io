@@ -13,7 +13,7 @@ Please review the following guidelines: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 # Contributors
 
-- Diogo Júnior
-- Fábio Barbosa
-- Filipe Carvalho
-- Augustas Verbickas
+- [Diogo Júnior](https://github.com/drjunior)
+- [Fábio Barbosa](https://github.com/FabioCB)
+- [Filipe Carvalho](https://github.com/filipemcarvalho)
+- [Augustas Verbickas](https://github.com/AugustasV)
