@@ -1,4 +1,4 @@
-<h1> Call for venues </h1>
+<h1> Continuous Call For Venues </h1>
 
 <center><a href="../index.html"><button type="button">Home</button></a></center>
 <br/>
