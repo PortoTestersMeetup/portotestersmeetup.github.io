@@ -76,15 +76,15 @@
 </div>
 
 <div id="fb" class="overlay" onclick="off('fb')">
-  <div id="text">Working as Mobile Test Automation Engineer, always looking forward to improve myself and learn new stuff. I believe automation is a must nowadays and I really enjoy developing tests for Android using Espresso, Ui Automator and other tools that facilitate the development cycle and guarantee the quality of what we are delivering.</div>
+  <div id="text">Working as Mobile Test Automation Engineer, always looking forward to improve myself and learn new stuff. I believe automation is a must nowadays and I really enjoy developing tests for Android using Espresso, UI Automator and other tools that facilitate the development cycle and guarantee the quality of what we are delivering.</div>
 </div>
 
 <div id="fc" class="overlay" onclick="off('fc')">
-  <div id="text">After finishing this Master's degree at FEUP, started his career as a developer. Some time later, decided to pursue and explore the areas of Mobile Test and Delivery Automation, naturally evolving to Test Lead during his path. Continues very interested in learning, being present regularly in events of the area, mainly in the ones related to Testing, Delivery or Infrastructure Automation. Currently he is a Senior Test Engineer of the Mobile cluster at Farfetch.</div>
+  <div id="text">After finishing this Master's degree at FEUP, started his career as a developer. Some time later, decided to pursue and explore the areas of Mobile Test and Delivery Automation, naturally evolving to Test Lead during his path. Continues very interested in learning, being present regularly in events of the area, mainly in the ones related to Testing, Delivery or Infrastructure Automation. Currently he is a Senior QA Automation Engineer at Talkdesk.</div>
 </div>
 
 <div id="nm" class="overlay" onclick="off('nm')">
-  <div id="text">Academically he has a degree in Computer Management and 19 years of professional experience in IT where in 2008 he started into Testing area and his career progressed naturally from junior to QA Team Lead followed by Test Manager. At the moment he’s challenged to implement test strategy, processes and procedures in web products delivery at VentureOak with the high quality standards.</div>
+  <div id="text">Academically he has a degree in Computer Management and 19 years of professional experience in IT where in 2008 he started into Testing area and his career progressed naturally from junior to QA Team Lead followed by Test Manager. At the moment he’s challenged to implement test strategy, processes and procedures in web products delivery at Xing PT with high quality standards.</div>
 </div>
 
 
