@@ -84,7 +84,7 @@
 </div>
 
 <div id="nm" class="overlay" onclick="off('nm')">
-  <div id="text">Academically he has a degree in Computer Management and 19 years of professional experience in IT where in 2008 he started into Testing area and his career progressed naturally from junior to QA Team Lead followed by Test Manager. At the moment he’s challenged to implement test strategy, processes and procedures in web products delivery at Xing PT with the high quality standards.</div>
+  <div id="text">Academically he has a degree in Computer Management and 19 years of professional experience in IT where in 2008 he started into Testing area and his career progressed naturally from junior to QA Team Lead followed by Test Manager. At the moment he’s challenged to implement test strategy, processes and procedures in web products delivery at Xing PT with high quality standards.</div>
 </div>
 
 
