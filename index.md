@@ -67,6 +67,15 @@
         </div>
       </div>
     </td>
+
+    <td class="column">
+      <div class="speakercontainer">
+        <img class="speakerimage" src="https://avatars1.githubusercontent.com/u/11976836?s=460&v=4" style="min-width:50px;"/>
+        <div class="speakermiddle">
+          <div class="speakertext" onclick="on('filfreire')">Filipe Freire</div>
+        </div>
+      </div>
+    </td>
   </tr>
   
 </table>
@@ -87,6 +96,9 @@
   <div id="text">Academically he has a degree in Computer Management and 19 years of professional experience in IT where in 2008 he started into Testing area and his career progressed naturally from junior to QA Team Lead followed by Test Manager. At the moment he’s challenged to implement test strategy, processes and procedures in web products delivery at Xing PT with high quality standards.</div>
 </div>
 
+<div id="nm" class="overlay" onclick="off('filfreire')">
+  <div id="text">Filipe Freire is currently a Test Automation Engineer at Blip (PaddyPower Betfair) focused on automation, quality and testing related-tasks for event-driven software that processes more than half a million critical messages per day. He enjoys contributing to OSS and you can check more about him at <a href="http://filfreire.com">filfreire.com</a>.</div>
+</div>
 
 <h1> Call for Speakers </h1>
 
