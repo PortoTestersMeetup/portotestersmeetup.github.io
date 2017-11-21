@@ -64,7 +64,8 @@
         </div>
       </div>
     </td>
-
+  </tr>
+  <tr>
     <td class="column">
       <div class="speakercontainer">
         <img class="speakerimage" src="https://avatars1.githubusercontent.com/u/11976836?s=460&v=4" style="min-width:50px;"/>
