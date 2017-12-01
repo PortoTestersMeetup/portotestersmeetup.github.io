@@ -6,7 +6,7 @@
 h1.project-name{
   visibility: hidden;
   font-family: initial;
-  padding-bottom: 130px;
+  font-family:"Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 h1.project-name:after{
@@ -16,11 +16,11 @@ h1.project-name:after{
 }
 
 .page-header {
-  background-image:url("../../images/cover/lineCover.png");
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: lightblue;
+  background-color: #02afe8;;
   background-size: contain;
+  background-image: none;
 }
 
 /* Style Overlay for Organizers */
@@ -79,7 +79,7 @@ h1.project-name:after{
 }
 
 .speakertext {
-  background-color: #4CAF50;
+  background-color: #02afe8;
   color: white;
   font-size: 16px;
   padding: 16px 32px;
@@ -87,4 +87,12 @@ h1.project-name:after{
 
 .column {
   width: 25%;
+}
+
+.main-content {
+  color: #02afe8;
+}
+
+.overlay-link {
+  background-color: #e2e2e2;
 }

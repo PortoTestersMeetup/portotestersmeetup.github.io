@@ -101,7 +101,7 @@
 <h1> Call for Speakers </h1>
 
 <p>
-  We are always looking for speakers for these events. If you want to talk and share some of your knowledge, please let us know and fill our <a href="../pages/cfs" target="_blank">call for speakers</a>.
+  We are always looking for speakers for these events. If you want to talk and share some of your knowledge, please let us know and fill our <a class="overlay-link" href="../pages/cfs" target="_blank">call for speakers</a>.
 </p>
 
 
