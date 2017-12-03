@@ -95,7 +95,7 @@
 </div>
 
 <div id="filfreire" class="overlay" onclick="off('filfreire')">
-  <div id="text">Filipe Freire is currently a Test Automation Engineer at Blip (PaddyPower Betfair) focused on automation, quality and testing related-tasks for event-driven software that processes more than half a million critical messages per day. He enjoys contributing to OSS and you can check more about him at <a href="http://filfreire.com">filfreire.com</a>.</div>
+  <div id="text">Filipe Freire is currently a Test Automation Engineer at Blip (PaddyPower Betfair) focused on automation, quality and testing related-tasks for event-driven software that processes more than half a million critical messages per day. He enjoys contributing to OSS and you can check more about him at <a class="overlay-link" href="http://filfreire.com">filfreire.com</a>.</div>
 </div>
 
 <h1> Call for Speakers </h1>
