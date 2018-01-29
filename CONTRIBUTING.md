@@ -17,7 +17,14 @@ We will only accept PRs previously discussed in the issues section.
 5. Wait patiently for a review
 6. If everything is fine, it will be merged and you will see it on the PTM website soon
 
-# How to use your github repository to test
+
+## How to test locally
+
+1. Make sure to follow the requirements of Jekyll pages. You can find them [here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#requirements)
+2. Install dependencies and Jekyll `bundle install`
+3. Run your Jekyll site locally: `bundle exec jekyll serve` and preview your local site at `http://localhost:4000`
+
+## How to use your github repository to test
 
 1. Open the url of your fork of the repository - example: https://github.com/yourgithubusername/portotestersmeetup.github.io
 2. Go to the settings of the repository
@@ -26,6 +33,6 @@ We will only accept PRs previously discussed in the issues section.
 5. Select the branch master
 6. Select where your site is published - should be under something like https://yourgithubusername.github.io/portotestersmeetup.github.io/
 
-# First time open-source?
+## First time open-source?
 
 Here is some guidance: https://opensource.guide/how-to-contribute/
