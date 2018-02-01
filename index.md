@@ -18,10 +18,21 @@
 
 <h1> Last event </h1>
 
-<h3> The Mainframe Dinossaur </h3>
+<h3> Testing startups vs. consulting - Pedro Glória </h3>
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/YaThGLN-8Jo" frameborder="0" gesture="media" allowfullscreen style="max-width: -webkit-fill-available;"></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/Qw1WvmvGBIY" frameborder="0" gesture="media" allowfullscreen style="max-width: -webkit-fill-available;"></iframe>
 
+<h3> From Brazil to Germany: a Short Tester Story - Carolina Batista </h3>
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/zfzLCcrlpz8" frameborder="0" gesture="media" allowfullscreen style="max-width: -webkit-fill-available;"></iframe>
+
+<h3> How Xing Created a Successful News Platform From Scratch - Maik Nogens </h3>
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/vajWZcHcvR4" frameborder="0" gesture="media" allowfullscreen style="max-width: -webkit-fill-available;"></iframe>
+
+<h1> Past Events </h1>
+
+You can browse other past events [here](../pages/past_events).
 
 <h1> Team </h1>
 
