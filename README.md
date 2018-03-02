@@ -1,4 +1,6 @@
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # How to contribute
 
 Please review the following guidelines: [CONTRIBUTING.md](CONTRIBUTING.md)
