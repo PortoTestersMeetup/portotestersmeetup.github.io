@@ -4,13 +4,13 @@
 
 <p>
   A group of friends that decided to contribute to the community by starting to organize events where we could gather everyone interested in all the topics regarding testing.
-</p> 
+</p>
 <p>
   At each event we start with one or two presentations and then discuss these and other themes along with a coffee break provided by the host company.
-</p> 
+</p>
 <p>
   Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_blank">here</a>. And videos <a href="https://www.youtube.com/channel/UCCS3R_xuqluwR0VxFjfBX8A" target="_blank">here</a>.  
-</p> 
+</p>
 <p>
   If you just want to share any idea, just talk to anyone in the organization on <a href="https://portotestersmeetup.slack.com" target="_blank"> slack</a> (join us if haven't already <a href="https://slackvite.com/portotestersmeetup" target="_blank"> here</a>) or in our <a href="https://www.facebook.com/groups/PortoTestersMeetup/" target="_blank"> facebook group</a>.
 </p>
@@ -39,15 +39,6 @@ You can browse other past events [here](../pages/past_events).
 <table width="100%" height="100%" style="border: 1px solid transparent">
 
   <tr>
-    <td class="column">
-      <div class="speakercontainer">
-        <img class="speakerimage" src="images/organization/diogo_junior.jpg" style="min-width:50px;"
-        />
-        <div class="speakermiddle">
-          <div class="speakertext" onclick="on('dj')">Diogo Júnior</div>
-        </div>
-      </div>
-    </td>
 
     <td class="column">
       <div class="speakercontainer">
@@ -57,7 +48,7 @@ You can browse other past events [here](../pages/past_events).
         </div>
       </div>
     </td>
-    
+
     <td class="column">
       <div class="speakercontainer">
         <img class="speakerimage" src="images/organization/filipe_carvalho.jpg" style="min-width:50px;"/>
@@ -66,7 +57,7 @@ You can browse other past events [here](../pages/past_events).
         </div>
       </div>
     </td>
-    
+
     <td class="column">
       <div class="speakercontainer">
         <img class="speakerimage" src="images/organization/nuno_matos.png" style="min-width:50px;"/>
@@ -86,13 +77,8 @@ You can browse other past events [here](../pages/past_events).
       </div>
     </td>
   </tr>
-  
 </table>
-
-<div id="dj" class="overlay" onclick="off('dj')">
-  <div id="text">Diogo Júnior, engineer from FEUP, started working at the Fraunhofer Research Institute in Portugal. After 5 years in research area moved to the "business" world and started working in the mobile e-commerce team at Porto Tech Center. At the moment is working at 7Graus where is currently Lead Android - Full Stack Dev - ASO Expert.</div>
-</div>
-
+<div style="text-align: right; width: 100%; margin-top: 35px;">Check out <a href="/pages/hof">here</a> the other amazing people who got envolved in this project.</div>
 <div id="fb" class="overlay" onclick="off('fb')">
   <div id="text">Working as Mobile Test Automation Engineer, always looking forward to improve myself and learn new stuff. I believe automation is a must nowadays and I really enjoy developing tests for Android using Espresso, UI Automator and other tools that facilitate the development cycle and guarantee the quality of what we are delivering.</div>
 </div>
@@ -125,7 +111,7 @@ Do you want to host one of our events? If you want to have the event in your com
 <h1> Want to contribute to the website? </h1>
 
 <p>
-  Great! Please follow our instructions <a href="https://github.com/PortoTestersMeetup/portotestersmeetup.github.io" target="_blank">here</a>. 
+  Great! Please follow our instructions <a href="https://github.com/PortoTestersMeetup/portotestersmeetup.github.io" target="_blank">here</a>.
 </p>
 
 
