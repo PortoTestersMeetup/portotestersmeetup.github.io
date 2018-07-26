@@ -1,34 +1,35 @@
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 
-# About
+## About
 
-<p>
 A group of friends that decided to contribute to the community by starting to organize events where we could gather everyone interested in all the topics regarding testing.
-</p>
 
-<p>
 At each event we start with one or two presentations and then discuss these and other themes along with a coffee break provided by the host company.
-</p>
-
-<p>
-Check our events <a href="https://portotestersmeetup.eventbrite.com" target="_blank">here</a>. And videos <a href="https://www.youtube.com/channel/UCCS3R_xuqluwR0VxFjfBX8A" target="_blank">here</a>.
-</p>
 
 <p>
 If you just want to share any idea, just talk to anyone in the organization on <a href="https://portotestersmeetup.slack.com" target="_blank">Slack</a> (you can join <a href="https://slackvite.com/portotestersmeetup" target="_blank">here</a>) or in our <a href="https://www.facebook.com/groups/PortoTestersMeetup/" target="_blank">Facebook group</a>.
 </p>
 
-# Past Events
+## Future and Past Events
+For info on past events, checkout this [link](../pages/past_events).
 
-You can browse other past events [here](../pages/past_events).
+For our yearly conference, go to [ptmconf.com](https://ptmconf.com)
 
-# Team
+Stay put, more events will be annouced soon.
+
+## Call for Speakers and Venues
+
+We are always looking for speakers for these events. If you want to talk and share some of your knowledge, please let us know and fill our [call for speakers](../pages/cfs).
+
+Do you want to host one of our events? If you want to have the event in your company, please fill the [call for venues](../pages/cfv).
+
+## Team
 
 <table width="100%" height="100%" style="border: 1px solid transparent">
   <tr>
     <td class="column">
       <div class="speakercontainer">
-        <img class="speakerimage" src="images/organization/fabio_barbosa.jpg" style="min-width:50px;"/>
+        <img class="speakerimage" src="images/organization/fabio_barbosa.jpg" style="min-width:40px;"/>
         <div class="speakermiddle">
           <div class="speakertext" onclick="on('fb')">Fábio Barbosa</div>
         </div>
@@ -36,7 +37,7 @@ You can browse other past events [here](../pages/past_events).
     </td>
     <td class="column">
       <div class="speakercontainer">
-        <img class="speakerimage" src="images/organization/filipe_carvalho.jpg" style="min-width:50px;"/>
+        <img class="speakerimage" src="images/organization/filipe_carvalho.jpg" style="min-width:40px;"/>
         <div class="speakermiddle">
           <div class="speakertext" onclick="on('fc')">Filipe Carvalho</div>
         </div>
@@ -44,7 +45,7 @@ You can browse other past events [here](../pages/past_events).
     </td>
     <td class="column">
       <div class="speakercontainer">
-        <img class="speakerimage" src="images/organization/nuno_matos.png" style="min-width:50px;"/>
+        <img class="speakerimage" src="images/organization/nuno_matos.png" style="min-width:40px;"/>
         <div class="speakermiddle">
           <div class="speakertext" onclick="on('nm')">Nuno Matos</div>
         </div>
@@ -52,7 +53,7 @@ You can browse other past events [here](../pages/past_events).
     </td>
   </tr>
 </table>
-<div style="text-align: right; width: 100%; margin-top: 35px;">Check out <a href="/pages/hof">here</a> the other amazing people who got envolved in this project.</div>
+<div style="text-align: right; width: 100%; margin-top: 35px;">Check out the <a href="/pages/hof">other amazing people</a> who got involved in this project in the past.</div>
 <div id="fb" class="overlay" onclick="off('fb')">
   <div id="text">Working as Mobile Test Automation Engineer, always looking forward to improve myself and learn new stuff. I believe automation is a must nowadays and I really enjoy developing tests for Android using Espresso, UI Automator and other tools that facilitate the development cycle and guarantee the quality of what we are delivering.</div>
 </div>
@@ -63,35 +64,11 @@ You can browse other past events [here](../pages/past_events).
   <div id="text">Academically he has a degree in Computer Management and 19 years of professional experience in IT where in 2008 he started into Testing area and his career progressed naturally from junior to QA Team Lead followed by Test Manager. At the moment he’s challenged to implement test strategy, processes and procedures in web products delivery at Xing PT with high quality standards.</div>
 </div>
 
-# Call for Speakers
 
-<p>
-We are always looking for speakers for these events. If you want to talk and share some of your knowledge, please let us know and fill our <a href="../pages/cfs" target="_blank">call for speakers</a>.
-</p>
+## Want to contribute to the website?
 
-# Call for Venues
-
-<p>
-Do you want to host one of our events? If you want to have the event in your company, please fill the <a href="../pages/cfv" target="_blank">call for venues</a>.
-</p>
-
-# Want to contribute to the website?
-
-<p>
-Great! Please follow our instructions <a href="https://github.com/PortoTestersMeetup/portotestersmeetup.github.io" target="_blank">here</a>.
-</p>
-
-
-# Next Event
-
-<div style="width:195px; text-align:center;" ><iframe  src="https://www.eventbrite.pt/calendar-widget?eid=37305787615" frameborder="0" height="487" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:195px; text-align:center;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.pt/">Eventbrite.</a></div></div>
+Great! Please follow our instructions on [Github](https://github.com/PortoTestersMeetup/portotestersmeetup.github.io).
 
 <script>
-function on(panel) {
-    document.getElementById(panel).style.display = "block";
-}
-
-function off(panel) {
-    document.getElementById(panel).style.display = "none";
-}
+function on(panel) {document.getElementById(panel).style.display = "block";}function off(panel) {document.getElementById(panel).style.display = "none";}
 </script>

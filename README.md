@@ -7,8 +7,8 @@ Please review the following guidelines: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## How to build
 
-1. Install dependencies and Jekyll `bundle install`
-2. Run your Jekyll site locally: `bundle exec jekyll serve` and preview your local site at `http://localhost:4000`
+1. Install dependencies and Jekyll `gem install github-pages`
+2. Run your Jekyll site locally: `jekyll serve` and preview your local site at `http://localhost:4000`
 
 ## How to create an issue
 
