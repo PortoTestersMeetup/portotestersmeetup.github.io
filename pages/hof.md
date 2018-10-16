@@ -3,22 +3,24 @@
 ### A big thanks to the people who were in the organization of this community.
 
 <div style="border: 1px solid transparent; width: 100%;">
-  <div class="column" style="padding: 0.5rem 1rem; border: 1px solid #e9ebec; width: 33%;">
-    <div class="speakercontainer">
-      <img class="speakerimage" src="../images/organization/diogo_junior.jpg" style="min-width:40px;"/>
-      <div class="speakermiddle">
-        <div class="speakertext" onclick="on('dj')">Diogo Júnior</div>
+  <tr>
+    <div class="column" style="padding: 0.5rem 1rem; border: 1px solid #e9ebec; width: 33%;">
+      <div class="speakercontainer">
+        <img class="speakerimage" src="../images/organization/diogo_junior.jpg" style="min-width:40px;"/>
+        <div class="speakermiddle">
+          <div class="speakertext" onclick="on('dj')">Diogo Júnior</div>
+        </div>
       </div>
     </div>
-  </div>
-  <div class="column" style="padding: 0.5rem 1rem; border: 1px solid #e9ebec; width: 33%;">
-    <div class="speakercontainer">
-      <img class="speakerimage" src="https://avatars1.githubusercontent.com/u/11976836?s=460&v=4" style="min-width:40px;"/>
-      <div class="speakermiddle">
-         <div class="speakertext" onclick="on('filfreire')">Filipe Freire</div>
+    <div class="column" style="padding: 0.5rem 1rem; border: 1px solid #e9ebec; width: 33%;">
+      <div class="speakercontainer">
+        <img class="speakerimage" src="https://avatars1.githubusercontent.com/u/11976836?s=460&v=4" style="min-width:40px;"/>
+        <div class="speakermiddle">
+           <div class="speakertext" onclick="on('filfreire')">Filipe Freire</div>
+        </div>
       </div>
     </div>
-  </div>
+  </tr>
 </div>
 
 <div id="dj" class="overlay" onclick="off('dj')">

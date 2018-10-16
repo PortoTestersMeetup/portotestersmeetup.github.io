@@ -7,7 +7,7 @@ A group of friends that decided to contribute to the community by starting to or
 At each event we start with one or two presentations and then discuss these and other themes along with a coffee break provided by the host company.
 
 <p>
-If you just want to share any idea, just talk to anyone in the organization on <a href="https://portotestersmeetup.slack.com" target="_blank">Slack</a> (you can join <a href="https://slackvite.com/portotestersmeetup" target="_blank">here</a>) or in our <a href="https://www.facebook.com/groups/PortoTestersMeetup/" target="_blank">Facebook group</a>.
+If you just want to share any idea, just talk to anyone in the organization on <a href="https://portotestersmeetup.slack.com" target="_blank">Slack</a> (you can join by talking with one of the staff members) or in our <a href="https://www.facebook.com/groups/PortoTestersMeetup/" target="_blank">Facebook group</a>.
 </p>
 
 ## Future and Past Events
@@ -54,6 +54,7 @@ Do you want to host one of our events? If you want to have the event in your com
   </tr>
 </table>
 <div style="text-align: right; width: 100%; margin-top: 35px;">Check out the <a href="/pages/hof">other amazing people</a> who got involved in this project in the past.</div>
+
 <div id="fb" class="overlay" onclick="off('fb')">
   <div id="text">Working as Mobile Test Automation Engineer, always looking forward to improve myself and learn new stuff. I believe automation is a must nowadays and I really enjoy developing tests for Android using Espresso, UI Automator and other tools that facilitate the development cycle and guarantee the quality of what we are delivering.</div>
 </div>
@@ -61,7 +62,7 @@ Do you want to host one of our events? If you want to have the event in your com
   <div id="text">After finishing this Master's degree at FEUP, started his career as a developer. Some time later, decided to pursue and explore the areas of Mobile Test and Delivery Automation, naturally evolving to Test Lead during his path. Continues very interested in learning, being present regularly in events of the area, mainly in the ones related to Testing, Delivery or Infrastructure Automation. Currently he is a Senior QA Automation Engineer at Talkdesk.</div>
 </div>
 <div id="nm" class="overlay" onclick="off('nm')">
-  <div id="text">Academically he has a degree in Computer Management and 19 years of professional experience in IT where in 2008 he started into Testing area and his career progressed naturally from junior to QA Team Lead followed by Test Manager. At the moment he’s challenged to implement test strategy, processes and procedures in web products delivery at Xing PT with high quality standards.</div>
+  <div id="text">Academically he has a degree in Computer Management and 19 years of professional experience in IT where in 2008 he started into Testing area and his career progressed naturally from junior to QA Team Lead followed by Test Manager. At the moment he’s challenged to implement test strategy, processes and procedures in web products delivery at Byside with high quality standards.</div>
 </div>
 
 
